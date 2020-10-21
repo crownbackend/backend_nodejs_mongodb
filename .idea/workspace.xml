@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2dbffbbc-b71b-41b4-bad1-1b23b9787fe5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/stuff.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/stuff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/stuff.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/stuff.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +30,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../dev-crown/dev_crow_api" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/front-end/frontend/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,7 +44,7 @@
       <workItem from="1603147367804" duration="6950000" />
       <workItem from="1603204472575" duration="56000" />
       <workItem from="1603205517562" duration="1436000" />
-      <workItem from="1603211512514" duration="9617000" />
+      <workItem from="1603211512514" duration="11319000" />
     </task>
     <servers />
   </component>
